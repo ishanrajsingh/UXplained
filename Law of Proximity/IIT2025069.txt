@@ -1,0 +1,7 @@
+https://www.figma.com/design/Ldq2beHE5rB0awtI6g5sEp/Law-of-Proximity?node-id=0-1&m=dev&t=gbnvNv0WXFQoBD42-1
+Explanation :
+The law of proximity says that elements placed close to each other are preceived to be related
+while the ones that are placed apart seem to be unrelated .
+In this design i tried to demonstrate this law by creating a shop menu with various items
+in the first group the items are placed randomly and items placed together are not necessarily related which creates confusion in the mind of the user
+while in the second group the items are placed in groups with headings which helps the user easily find desired items!!!!
