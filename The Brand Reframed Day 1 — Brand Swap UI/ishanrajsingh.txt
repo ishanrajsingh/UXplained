@@ -1,0 +1,10 @@
+Figma Link:
+
+Brand Swap - Zomato style to Swiggy style
+
+Descrtiption:
+
+Implemented Zomato style to swiggy style, UI has landing page, login page, home page
+Landing Page has a banner, login button, offers, feedback.
+Login Page has login via mobile number.
+Home Page has search bar, address, profile, all categories cards, navbar
