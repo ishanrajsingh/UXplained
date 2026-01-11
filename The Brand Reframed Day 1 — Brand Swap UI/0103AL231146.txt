@@ -1,0 +1,13 @@
+figma link : https://www.figma.com/design/QDjhcHMYypGjdYjWb89ZdL/Untitled?node-id=0-1&t=hKc7yzL7yIhp2gYl-1
+
+
+-----------swap app UI----------------------
+Instagram ---> Snapchat
+means instagram app with snapchat UI
+
+-------------------------- Description --------------------------
+
+This UI uses a bold yellow-and-black color scheme to create a strong, eye-catching visual identity. 
+The login screens are clean and minimal, with clear focus on primary actions like logging in and entering credentials. 
+Typography and spacing keep the layout simple and easy to scan. 
+The feed screen maintains familiarity while extending the theme, ensuring usability despite the experimental color choice.
