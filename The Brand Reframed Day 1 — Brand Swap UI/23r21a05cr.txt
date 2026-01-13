@@ -1,0 +1,6 @@
+figma link - https://www.figma.com/design/JveRJaL33cDevQXfxw1D4f/Untitled?node-id=52-5&t=pQfyhxwt3mkgQSNl-1
+
+Brand Swap: Discord → YouTube Style
+Description: Discord’s original purpose and structure are preserved while the UI is redesigned using 
+            YouTube’s visual style. The design applies YouTube-inspired colors, typography, and layout to 
+            Discord’s interface, keeping the experience clear, consistent, and familiar.
