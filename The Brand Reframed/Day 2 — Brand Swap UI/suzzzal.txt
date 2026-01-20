@@ -1,1 +1,15 @@
 https://www.figma.com/design/2GEA5ifecIO0RgxY57bFu2/Untitled?node-id=0-1&t=yL8UMsDlkVBnS7AN-1
+
+these are the things i did
+the first 3 pages were made on Day 1 rebranding issue.
+on Day 1 Brand Swap, i designed the first 3 pages,
+on Day 2, the task focused on expansion.
+i extended the swapped brand following the same visual style and feel connected to the brand created on Day 1.
+
+i added three new screens.
+these screens are the Cart page, Explore page, and Profile page.
+
+the Cart page shows selected food items and order details.
+the Explore page helps users search and view restaurants and food items.
+the Profile page shows user information, wallet balance, and settings.
+all screens follow the same style and design.
