@@ -1,0 +1,4 @@
+Figma Link - https://www.figma.com/design/wKc1PhEv2WMVeO008sD1HH/Mobile-UI-Design-Challenge?node-id=0-1&t=I2W9PEgP7arwbmRD-1
+
+I designed three core screens of an educational app focusing on clarity, consistency, and an 
+intuitive learning flow from course overview to lesson content and quiz.
