@@ -1,0 +1,15 @@
+figma link :https://www.figma.com/design/RVjSdUsgT4PzQrvZowbJ5a/Untitled?node-id=0-1&t=uiZGwaLbHPWOuNRw-1
+
+DESCRIPTION OF DESIGN :-
+
+Design Approach
+
+The design follows a user-first, problem-driven approach focused on clarity, consistency, and minimal cognitive load. Each interaction is intentionally simple to help users complete tasks quickly without confusion.
+
+Screens Chosen
+
+Only essential screens were selected to support the core user journey and reduce unnecessary navigation. Each screen serves a clear purpose, ensuring a smooth and logical flow from start to finish.
+
+UI/UX Laws Applied
+
+Key UI/UX laws were applied to enhance usability, including visual hierarchy for focus, proximity for grouping related elements, and consistency to improve learnability. These principles ensure the interface feels intuitive and predictable.
