@@ -5,8 +5,8 @@ Approach:
 Created an educational app in which users can enroll and study courses, find/join team for hackathons and play educational games
 
 Laws Applied:
-Visual hierarchy
-Consistency & repetition
-Hick’s Law
-Fitts’s Law
-Accessibility basics
+Visual hierarchy - proper hierarchy structure
+Consistency & repetition - consistent design , styling, colours
+Hick’s Law - appealing screens
+Fitts’s Law - appealing buttons
+Accessibility basics - proper alignment
